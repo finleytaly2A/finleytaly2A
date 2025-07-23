@@ -28,10 +28,17 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a unique blen
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=finleytaly2A&theme=radical&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+
 ### 📈 GitHub Stats
 
-![Finley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=finleytalian&show_icons=true&theme=calm)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=finleytalian&layout=compact&theme=calm)
+![Finley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=finleytaly2A&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=finleytaly2A&layout=compact&theme=radical)
 
 ---
 
