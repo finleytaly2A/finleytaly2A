@@ -2,7 +2,7 @@
 
 ### ✈️ Pilot | 📊 Data Scientist | 🧠 Lifelong Learner
 
-Welcome to my GitHub profile! I'm a passionate data scientist with a unique blend of analytical thinking from the skies and machine learning on the ground. Whether I’m flying aircraft or analyzing large datasets, I thrive on solving complex problems and making sense of data.
+Welcome to my GitHub profile! I'm a passionate data scientist with a unique blend of analytical thinking from the skies and machine learning on the ground. Whether I’m flying planes or analyzing large datasets, I thrive on solving complex problems and making sense of data.
 
 ---
 
