@@ -44,8 +44,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a unique blen
 
 ### 🌐 Let's Connect
 
-- 🌍 [LinkedIn](https://www.linkedin.com/in/finley) *(replace with your real link)*
-- 💼 Portfolio: [finleyds.com](https://finleyds.com) *(optional)*
+- 🌍 [LinkedIn](https://www.linkedin.com/in/finley-talian-70b52a1b0/) 
 - 📬 Reach me: [talianfinley@gmail.com](mailto:talianfinley@gmail.com)
 
 ---
